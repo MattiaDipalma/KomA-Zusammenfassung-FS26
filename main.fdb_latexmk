@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1780148508.29421 "/Users/mattiadipalma/Desktop/ETH_trash/2025-2026/sem._2/komplexe_analysis/zusammenfassungen/KomA_Zusammenfassung_FS26/main.tex" "main.pdf" "main" 1780148508.56069 0
-  "/Users/mattiadipalma/Desktop/ETH_trash/2025-2026/sem._2/komplexe_analysis/zusammenfassungen/KomA_Zusammenfassung_FS26/main.tex" 1780148507.34563 233 18f8956f62ff8918c043d234ab374b50 ""
+["pdflatex"] 1780148662.40942 "/Users/mattiadipalma/Desktop/ETH_trash/2025-2026/sem._2/komplexe_analysis/zusammenfassungen/KomA_Zusammenfassung_FS26/main.tex" "main.pdf" "main" 1780148662.68614 0
+  "/Users/mattiadipalma/Desktop/ETH_trash/2025-2026/sem._2/komplexe_analysis/zusammenfassungen/KomA_Zusammenfassung_FS26/main.tex" 1780148662.20193 222 0f88e3767e58f5aab78504e80fa05eef ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -33,8 +33,8 @@
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1780148239 5573038 b99aad5e4898a9034e953632f940512b ""
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1780148148 3636771 7797574d7920a38b16e07b3f9788eaad ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "main.aux" 1780148508.54199 132 becad25d16353fbd81e5644d2e8bca32 "pdflatex"
-  "main.tex" 1780148507.34563 233 18f8956f62ff8918c043d234ab374b50 ""
+  "main.aux" 1780148662.66559 132 becad25d16353fbd81e5644d2e8bca32 "pdflatex"
+  "main.tex" 1780148662.20193 222 0f88e3767e58f5aab78504e80fa05eef ""
   (generated)
   "main.aux"
   "main.log"
